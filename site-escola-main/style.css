@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.cabeçalho{
+    background-color: pink;
+    color: rgb(219, 48, 91);
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+
+
+cabeçalho-imagem{
+   width: 80%;
+
+}
+
+cabeçalho-lista-item{display: inline-block;}
+
+

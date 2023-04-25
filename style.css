@@ -1,8 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
 .cabeçalho{
-    background-color: red;
-    color: darkred;
+    background-color: pink;
+    color: rgb(219, 48, 91);
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
     padding: 24px 0;
 }
 
@@ -12,5 +19,22 @@ cabeçalho-imagem{
 
 }
 
-cabeçalho-lista-item{display: inline-block;}
+cabeçalho-lista-item{
+    display: inline-block;
+}
 
+.escola-imagem{
+    width: 20%;
+    padding: 100px 0;
+
+}
+
+
+.escola{
+    display: flex;
+    background-image: linear-gradient( pink, rgb(219, 48, 91));
+}
+
+.isabela{
+    width: 120px;
+}

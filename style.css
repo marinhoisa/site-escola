@@ -40,7 +40,10 @@ cabeçalho-lista-item{
 }
 
 .estudante-icone{
-    width: 50px;
+    width: 45px;
+}
+.estudante-icone1{
+    width: 43px;
 }
 
 .kemilly{
@@ -50,8 +53,22 @@ cabeçalho-lista-item{
     width: 110px;
 }
 .milena{
-    width: 120px;
+    width: 130px;
 }
-.estudante-div{
-    text-align: center;
+.isabelle{
+    width: 115px;
+}
+.pedro{
+    width: 90px;
+}
+
+.estudantes{
+    background-color: pink;
+    color: rgb(0, 0, 0);
+     background-image: linear-gradient(rgb(219, 48, 91), pink );
+}
+
+.titulo{
+    font-size: 300%;
+
 }

@@ -66,9 +66,24 @@ cabeçalho-lista-item{
     background-color: pink;
     color: rgb(0, 0, 0);
      background-image: linear-gradient(rgb(219, 48, 91), pink );
+     text-align: center;
 }
 
 .titulo{
     font-size: 300%;
 
+}
+
+.estudantes-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+    background-color: pink;
+    text-align: center;
+
+}
+.rodape-imagem{
+    width: 90px;
 }

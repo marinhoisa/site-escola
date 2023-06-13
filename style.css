@@ -5,8 +5,8 @@
 
 
 .cabeçalho{
-    background-color: pink;
-    color: rgb(219, 48, 91);
+    background: linear-gradient(rgba(48, 233, 193, 0.667),#a806a8ce);
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,13 +14,15 @@
 }
 
 
-cabeçalho-imagem{
-   width: 80%;
+.cabeçalho-imagem{
+   width: 15%;
 
 }
 
-cabeçalho-lista-item{
+.cabeçalho-lista-item{
     display: inline-block;
+    font-size: 400%;
+    text-align:right;
 }
 
 .escola-imagem{
@@ -32,7 +34,7 @@ cabeçalho-lista-item{
 
 .escola{
     display: flex;
-    background-image: linear-gradient( pink, rgb(219, 48, 91));
+    background-image: linear-gradient( white);
 }
 
 .isabela{

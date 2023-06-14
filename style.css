@@ -24,6 +24,15 @@
     font-size: 400%;
     text-align:right;
 }
+.escola-titulo{
+    font-size: 300%;
+    background-image: linear-gradient(to bottom,  rgb(50, 190, 209), rgb(150, 103, 160), rgb(225, 59, 247));
+    background-clip: text;
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+    color: black;
+    
+}
 
 .escola-imagem{
     width: 20%;

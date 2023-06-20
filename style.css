@@ -56,6 +56,7 @@
     color: white;
     display: flex;
     background-image: linear-gradient( white);
+    padding-bottom: 5%;
 }
 
 .tamanhop{
@@ -107,15 +108,19 @@
     left: 60%
 }
 .estudantes{
-    background-image: linear-gradient( rgb(48, 233, 193, 0.667),#a806a8ce, #a806a8ce, #a806a8ce, #a806a8ce, #a806a8ce);
+    background-image: linear-gradient( rgb(48, 233, 193, 0.667),#a806a8ce, #a806a8ce, #a806a8ce, #a806a8ce);
     color: white;
 }
 
 .estudantes1{
-    background-image: linear-gradient( #a806a8ce, rgb(48, 233, 193, 0.667));
-    
+    background-image: linear-gradient( #c41fc4, rgb(48, 233, 193, 0.667), rgb(48, 233, 193, 0.667), rgb(48, 233, 193, 0.667), rgb(48, 233, 193, 0.667));
+   
 }
-
+.estudantes2{
+    background-image: linear-gradient(  rgba(26, 194, 186, 0.667),rgb(48, 233, 193, 0.667),#a806a8ce, #a806a8ce, #610061ce);
+    color: white;
+    padding-top: 10%;
+}
 .estudantes-todos{
 
     display: grid;
@@ -126,7 +131,6 @@
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 .estudantes-todos2{
-    background: linear-gradient( #a806a8ce, rgba(48, 233, 193, 0.667));
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }

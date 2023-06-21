@@ -136,12 +136,40 @@
 }
 
 .rodape{
-    background-color:rgba(48, 233, 193, 0.667);
+    background-color:#610061ce;
     text-align: center;
 
 }
 .rodape-imagem{
+    width: 10%;
     position: relative;
-    left: 658px;
-    width: 200px;
+    left: 630px;
+    top: 100%
+    display: inline-block;
+}
+
+.rodape-lista{
+    position: relative;
+    top: 100%;
+    color: black;
+}
+.rodape-lista-item1{
+    position: relative;
+    right: 40%
+}
+.rodape-lista-item2{
+    position: relative;
+    right: 36%
+}
+.rodape-lista-item3{
+    position: relative;
+    right: 25%
+}
+.rodape-lista-item4{
+    position: relative;
+    right: 29%
+}
+.rodape-lista-item5{
+    position: relative;
+    right: 10%
 }
